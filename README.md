@@ -17,3 +17,14 @@
 - [Vibe2Wizard - From Vibe Coder to Onchain Wizard: The Gamified Web3 & Solidity Mastery Platform](https://www.linkedin.com/posts/carlos-baeza-negroni_web3-avalanche-buildgameshackathon-activity-7432039151312490497-MqSg)
 - [Understanding AI Agent Skills: A Comprehensive Guide](https://www.linkedin.com/posts/carlos-baeza-negroni_ai-artificialintelligence-chatgpt-activity-7431459511338606592-ztOU)
 - [Vibe Coding Your First API: How We Built LaunchPad API in Days (Not Months)](https://www.linkedin.com/posts/carlos-baeza-negroni_vibecoding-apidevelopment-codeigniter4-activity-7429851365989912576-1O10)
+
+
+## Hands-On Available Project Repositories
+
+- [A Production-Ready API Foundation Built with Vibe Coding](https://github.com/cjbaezilla/Your-First-Vibecode-API-Using-Codeigniter4-Tutorial)
+- [Fully functional AI-powered chat application](https://github.com/cjbaezilla/Building-Your-First-Web-AI-Assistant-Hands-On-Tutorial)
+- [Fully functional DAO system](https://github.com/cjbaezilla/Your-First-DAO-Solidity-Token-OpenZeppelin-Tally-Tutorial)
+- [Staking mechanism using the ERC-4626 Tokenized Vault Standard](https://github.com/cjbaezilla/Build-Your-First-Solidity-ERC20-Staking-Contract-Tutorial)
+- [Connects OpenCode SDK with Telegram](https://github.com/cjbaezilla/Integrate-Opencode-SDK-With-Telegram-Bot-Hands-On-Tutorial)
+- [Creating and deploying a Real World Asset (RWA)](https://github.com/cjbaezilla/Your-First-RWA-Token-Solidity-Nextjs-HandsOn-Tutorial)
+- [Monorepo for the Avalanche Build Games Hackathon](https://github.com/cjbaezilla/Avalanche-Build-Games-Hackathon-Monorepo)
