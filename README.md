@@ -1,5 +1,6 @@
 ## LinkedIn Publications
 
+- [Slither, Solhint & Mythril: A Beginner's Introduction to Essential Security for Smart Contracts Using Semantic Analysis Auditing Tools](https://www.linkedin.com/posts/carlos-baeza-negroni_solidity-slither-solhint-activity-7444810116953952257-nV5D)
 - [Beginner's Automation Foundations: An OpenClaw Compatible Skills Framework for Autonomous Agentic Google Workspace Orchestration in Python](https://www.linkedin.com/posts/carlos-baeza-negroni_ai-artificialintelligence-machinelearning-activity-7442938284940464128-fxuB)
 - [Building a Fractional Real Estate NFT Platform: A Hands-On Tutorial for Tokenization on Ethereum using Solidity and Next.js](https://www.linkedin.com/posts/carlos-baeza-negroni_realestatetokenization-blockchain-solidity-activity-7442228854833741825-Z5T9)
 - [The Beginner's Hands-On Guide to RWA Tokens on Ethereum: Solidity, Hardhat, OpenZeppelin, and Next.js Dashboard](https://www.linkedin.com/posts/carlos-baeza-negroni_rwa-tokenization-solidity-activity-7441482335184773120-seSB)
@@ -21,9 +22,7 @@
 - [Understanding AI Agent Skills: A Comprehensive Guide](https://www.linkedin.com/posts/carlos-baeza-negroni_ai-artificialintelligence-chatgpt-activity-7431459511338606592-ztOU)
 - [Vibe Coding Your First API: How We Built LaunchPad API in Days (Not Months)](https://www.linkedin.com/posts/carlos-baeza-negroni_vibecoding-apidevelopment-codeigniter4-activity-7429851365989912576-1O10)
 
-
 ## Hands-On Available Project Repositories
-
 
 - [Skills Framework for Autonomous Agentic Google Workspace Orchestration](https://github.com/cjbaezilla/Skills-Framework-for-Autonomous-Agentic-Google-Workspace-Orchestration-Tutorial)
 - [Fractional Real Estate NFT - RWA Tokenization Tutorial](https://github.com/cjbaezilla/Tokenize-Fractional-Real-Estate-NFT-Solidity-HandsOn-Tutorial)
