@@ -33,3 +33,17 @@
 - [Fully functional AI-powered chat application](https://github.com/cjbaezilla/Building-Your-First-Web-AI-Assistant-Hands-On-Tutorial)
 - [A Production-Ready API Foundation Built with Vibe Coding](https://github.com/cjbaezilla/Your-First-Vibecode-API-Using-Codeigniter4-Tutorial)
 - [Monorepo for the Avalanche Build Games Hackathon](https://github.com/cjbaezilla/Avalanche-Build-Games-Hackathon-Monorepo)
+
+## Fundamentos
+
+- [Firmas Ciegas y eCash](https://www.linkedin.com/posts/carlos-baeza-negroni_en-1982-david-chaum-public%C3%B3-el-art%C3%ADculo-activity-7459582025419612160-No_w)
+- [Criptografía de Clave Pública](https://www.linkedin.com/posts/carlos-baeza-negroni_la-evoluci%C3%B3n-cronol%C3%B3gica-de-la-criptograf%C3%ADa-activity-7460000689088405504-RWLU)
+- [Modelado de Incentivos y Teoría de Juegos en el Consenso Nakamoto](https://www.linkedin.com/posts/carlos-baeza-negroni_el-modelado-de-incentivos-en-el-protocolo-activity-7460310669242859521-ycxe/)
+- [Ley de Benford y Análisis Forense de la Cadena de Bloques](https://www.linkedin.com/posts/carlos-baeza-negroni_la-intersecci%C3%B3n-entre-la-estad%C3%ADstica-matem%C3%A1tica-activity-7460691259834380288-Sy2e/)
+- [Dinero como Constructo Interobjetivo](https://www.linkedin.com/posts/carlos-baeza-negroni_el-an%C3%A1lisis-del-dinero-experimenta-un-punto-activity-7461041133100548096-CJnp/)
+- [Esquemas de Shamir y el Secreto Compartido](https://www.linkedin.com/posts/carlos-baeza-negroni_el-desarrollo-de-la-criptograf%C3%ADa-moderna-activity-7461432173573861376-3mbW/)
+- [Epistemología de la Complejidad (Falsacionismo de Popper y Lakatos)](https://www.linkedin.com/posts/carlos-baeza-negroni_la-epistemolog%C3%ADa-de-la-complejidad-consolidada-activity-7461754614766428160-WL2e)
+- [El Modelo de Diamond y Dybvig](https://www.linkedin.com/posts/carlos-baeza-negroni_el-modelo-econ%C3%B3mico-de-douglas-diamond-y-activity-7462125517752819712-I-L_/)
+- [Teoría de Valores Extremos (EVT) y Riesgos de 'Cola Ancha' en Bitcoin](https://www.linkedin.com/posts/carlos-baeza-negroni_el-an%C3%A1lisis-riguroso-del-riesgo-sist%C3%A9mico-activity-7462478663327027200-B-Dd)
+- [Métricas de Descentralización Alternativas: Índice de Theil y Ratio de Palma](https://www.linkedin.com/posts/carlos-baeza-negroni_la-evaluaci%C3%B3n-de-la-descentralizaci%C3%B3n-en-activity-7462836090018656257-5M5u/)
+- [Teoría de la Utilidad Esperada y la Paradoja de San Petersburgo](https://www.linkedin.com/posts/carlos-baeza-negroni_en-1713-el-matem%C3%A1tico-nicolaus-bernoulli-activity-7463194832673546240--5hh)
