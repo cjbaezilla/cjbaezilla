@@ -47,3 +47,6 @@
 - [Teoría de Valores Extremos (EVT) y Riesgos de 'Cola Ancha' en Bitcoin](https://www.linkedin.com/posts/carlos-baeza-negroni_el-an%C3%A1lisis-riguroso-del-riesgo-sist%C3%A9mico-activity-7462478663327027200-B-Dd)
 - [Métricas de Descentralización Alternativas: Índice de Theil y Ratio de Palma](https://www.linkedin.com/posts/carlos-baeza-negroni_la-evaluaci%C3%B3n-de-la-descentralizaci%C3%B3n-en-activity-7462836090018656257-5M5u/)
 - [Teoría de la Utilidad Esperada y la Paradoja de San Petersburgo](https://www.linkedin.com/posts/carlos-baeza-negroni_en-1713-el-matem%C3%A1tico-nicolaus-bernoulli-activity-7463194832673546240--5hh)
+- [Termodinámica de la Información y el Principio de Landauer en la Seguridad de Red](https://www.linkedin.com/posts/carlos-baeza-negroni_en-1961-el-f%C3%ADsico-rolf-landauer-public%C3%B3-activity-7463563070787936256-oQAf)
+- [Profundidad Termodinámica y el Demonio de Maxwell](https://www.linkedin.com/posts/carlos-baeza-negroni_para-comprender-por-qu%C3%A9-el-registro-contable-activity-7463941055978090496-RF_O)
+- [Teoría de Sistemas Adaptativos Complejos y el "Borde del Caos" en Bitcoin](https://www.linkedin.com/posts/carlos-baeza-negroni_para-analizar-la-red-bitcoin-con-rigor-t%C3%A9cnico-activity-7464284519353737216-jA00)
