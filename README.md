@@ -50,3 +50,8 @@
 - [Termodinámica de la Información y el Principio de Landauer en la Seguridad de Red](https://www.linkedin.com/posts/carlos-baeza-negroni_en-1961-el-f%C3%ADsico-rolf-landauer-public%C3%B3-activity-7463563070787936256-oQAf)
 - [Profundidad Termodinámica y el Demonio de Maxwell](https://www.linkedin.com/posts/carlos-baeza-negroni_para-comprender-por-qu%C3%A9-el-registro-contable-activity-7463941055978090496-RF_O)
 - [Teoría de Sistemas Adaptativos Complejos y el "Borde del Caos" en Bitcoin](https://www.linkedin.com/posts/carlos-baeza-negroni_para-analizar-la-red-bitcoin-con-rigor-t%C3%A9cnico-activity-7464284519353737216-jA00)
+- [La Taxonomía del Dinero Sintético de Mercancía y la Perspectiva de Elección Pública Según George Selgin](https://www.linkedin.com/posts/carlos-baeza-negroni_la-comprensi%C3%B3n-t%C3%A9cnica-de-bitcoin-requiere-activity-7464632889821855744-QOFT)
+- [Topología de Redes de 'Pequeño Mundo' (Watts y Strogatz)](https://www.linkedin.com/posts/carlos-baeza-negroni_la-comprensi%C3%B3n-de-la-infraestructura-de-bitcoin-activity-7464993470168899584-_st-)
+- [El Problema de la Atomicidad y la Convergencia en Sistemas de Valor Descentralizados](https://www.linkedin.com/posts/carlos-baeza-negroni_la-atomicidad-es-la-piedra-angular-de-la-activity-7465374266922979328-QcDa)
+- [Análisis Comparativo Entre las Firmas Ciegas de David Chaum y el Modelo UTXO de Bitcoin](https://www.linkedin.com/posts/carlos-baeza-negroni_la-evoluci%C3%B3n-de-la-arquitectura-del-dinero-activity-7465719020063887360-Jmvh)
+- [Complejidad Computacional y el Modelo del Oráculo Aleatorio en SHA-256: Fundamentos Técnicos e Institucionales](https://www.linkedin.com/posts/carlos-baeza-negroni_la-arquitectura-de-seguridad-de-bitcoin-se-activity-7466085435941863424-5nf6)
