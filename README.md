@@ -55,3 +55,4 @@
 - [El Problema de la Atomicidad y la Convergencia en Sistemas de Valor Descentralizados](https://www.linkedin.com/posts/carlos-baeza-negroni_la-atomicidad-es-la-piedra-angular-de-la-activity-7465374266922979328-QcDa)
 - [Análisis Comparativo Entre las Firmas Ciegas de David Chaum y el Modelo UTXO de Bitcoin](https://www.linkedin.com/posts/carlos-baeza-negroni_la-evoluci%C3%B3n-de-la-arquitectura-del-dinero-activity-7465719020063887360-Jmvh)
 - [Complejidad Computacional y el Modelo del Oráculo Aleatorio en SHA-256: Fundamentos Técnicos e Institucionales](https://www.linkedin.com/posts/carlos-baeza-negroni_la-arquitectura-de-seguridad-de-bitcoin-se-activity-7466085435941863424-5nf6)
+- [Mecánica Estadística de los Sistemas de Consenso (Modelo de Ising)](https://www.linkedin.com/posts/carlos-baeza-negroni_el-estudio-de-los-sistemas-de-consenso-en-activity-7466461413796900864-mpQ2)
