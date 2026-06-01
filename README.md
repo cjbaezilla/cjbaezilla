@@ -56,3 +56,5 @@
 - [Análisis Comparativo Entre las Firmas Ciegas de David Chaum y el Modelo UTXO de Bitcoin](https://www.linkedin.com/posts/carlos-baeza-negroni_la-evoluci%C3%B3n-de-la-arquitectura-del-dinero-activity-7465719020063887360-Jmvh)
 - [Complejidad Computacional y el Modelo del Oráculo Aleatorio en SHA-256: Fundamentos Técnicos e Institucionales](https://www.linkedin.com/posts/carlos-baeza-negroni_la-arquitectura-de-seguridad-de-bitcoin-se-activity-7466085435941863424-5nf6)
 - [Mecánica Estadística de los Sistemas de Consenso (Modelo de Ising)](https://www.linkedin.com/posts/carlos-baeza-negroni_el-estudio-de-los-sistemas-de-consenso-en-activity-7466461413796900864-mpQ2)
+- [Análisis Científico del Modelo UTXO y su Arquitectura de Estado Distribuido](https://www.linkedin.com/posts/carlos-baeza-negroni_el-modelo-de-salida-de-transacci%C3%B3n-no-gastada-activity-7466840410678702082-eJm5)
+- [Energía del Sistema (Hamiltoniano)](https://www.linkedin.com/posts/carlos-baeza-negroni_la-estabilidad-de-bitcoin-puede-modelarse-activity-7467166479046705152--G10)
