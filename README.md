@@ -58,3 +58,6 @@
 - [Mecánica Estadística de los Sistemas de Consenso (Modelo de Ising)](https://www.linkedin.com/posts/carlos-baeza-negroni_el-estudio-de-los-sistemas-de-consenso-en-activity-7466461413796900864-mpQ2)
 - [Análisis Científico del Modelo UTXO y su Arquitectura de Estado Distribuido](https://www.linkedin.com/posts/carlos-baeza-negroni_el-modelo-de-salida-de-transacci%C3%B3n-no-gastada-activity-7466840410678702082-eJm5)
 - [Energía del Sistema (Hamiltoniano)](https://www.linkedin.com/posts/carlos-baeza-negroni_la-estabilidad-de-bitcoin-puede-modelarse-activity-7467166479046705152--G10)
+- [Fórmula de Seguridad Probabilística de Bitcoin](https://www.linkedin.com/posts/carlos-baeza-negroni_el-algoritmo-de-seguridad-probabil%C3%ADstica-activity-7467502020183289856-uIc_)
+- [El Problema del 'Free-Riding' y la Teoría de Incentivos en Redes P2P](https://www.linkedin.com/posts/carlos-baeza-negroni_el-fen%C3%B3meno-del-free-riding-o-parasitismo-activity-7467863401315373056-0yyV)
+- [Teoría de los Contratos Incompletos de Hart y Moore Aplicada a la Soberanía Digital con Bitcoin](https://www.linkedin.com/posts/carlos-baeza-negroni_la-tesis-de-oliver-hart-y-john-moore-publicada-activity-7468298630978867200-gDd9)
