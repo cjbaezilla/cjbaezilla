@@ -61,3 +61,15 @@
 - [Fórmula de Seguridad Probabilística de Bitcoin](https://www.linkedin.com/posts/carlos-baeza-negroni_el-algoritmo-de-seguridad-probabil%C3%ADstica-activity-7467502020183289856-uIc_)
 - [El Problema del 'Free-Riding' y la Teoría de Incentivos en Redes P2P](https://www.linkedin.com/posts/carlos-baeza-negroni_el-fen%C3%B3meno-del-free-riding-o-parasitismo-activity-7467863401315373056-0yyV)
 - [Teoría de los Contratos Incompletos de Hart y Moore Aplicada a la Soberanía Digital con Bitcoin](https://www.linkedin.com/posts/carlos-baeza-negroni_la-tesis-de-oliver-hart-y-john-moore-publicada-activity-7468298630978867200-gDd9)
+- [La Gobernanza de los Bienes Comunes de Elinor Ostrom y el Protocolo Bitcoin](https://www.linkedin.com/posts/carlos-baeza-negroni_la-econom%C3%ADa-institucional-de-elinor-ostrom-activity-7468622589309902848-NWEi)
+- [Códigos de Borrado (Erasure Coding) y Pruebas de Disponibilidad de Datos](https://www.linkedin.com/posts/carlos-baeza-negroni_la-integridad-de-los-registros-distribuidos-activity-7468980813616037889-gKys)
+
+## Ethereum, EVM y Contratos Inteligentes
+
+- [EVM Sandbox: Aislamiento Total](https://www.linkedin.com/posts/carlos-baeza-negroni_la-m%C3%A1quina-virtual-de-ethereum-se-concibe-activity-7471004486858223616-0ZKa)
+- [Anatomía de las Cuentas en la EVM](https://www.linkedin.com/posts/carlos-baeza-negroni_en-el-dise%C3%B1o-estructural-de-la-cadena-de-activity-7471148215875186688-ZGfW)
+- [Cuentas en la EVM: Estructura y Derivación de Direcciones](https://www.linkedin.com/posts/carlos-baeza-negroni_el-despliegue-de-contratos-inteligentes-en-activity-7471504896123432960-jPsk)
+- [Función de Transición de Estado de Ethereum](https://www.linkedin.com/posts/carlos-baeza-negroni_la-arquitectura-global-de-la-red-de-ethereum-activity-7471705755067375616-G9f9)
+- [Solidity Compiler - Variable Cleanup](https://www.linkedin.com/posts/carlos-baeza-negroni_la-m%C3%A1quina-virtual-de-ethereum-opera-de-forma-activity-7471860741373997056-MIDi)
+- [Arquitectura de la Pila de la EVM](https://www.linkedin.com/posts/carlos-baeza-negroni_la-unidad-de-procesamiento-aritm%C3%A9tica-de-activity-7472079683883565056-UTGb)
+- [Compatibilidad Hacia Atrás en Solidity y la EVM](https://www.linkedin.com/posts/carlos-baeza-negroni_la-selecci%C3%B3n-de-la-versi%C3%B3n-de-destino-de-activity-7472215578871619584-qvTA)
