@@ -33,6 +33,9 @@
 - [Fully functional AI-powered chat application](https://github.com/cjbaezilla/Building-Your-First-Web-AI-Assistant-Hands-On-Tutorial)
 - [A Production-Ready API Foundation Built with Vibe Coding](https://github.com/cjbaezilla/Your-First-Vibecode-API-Using-Codeigniter4-Tutorial)
 - [Monorepo for the Avalanche Build Games Hackathon](https://github.com/cjbaezilla/Avalanche-Build-Games-Hackathon-Monorepo)
+- [USACH Web3 Laboratory & Training DApp](https://github.com/cjbaezilla/diplomado-usach-training-dapp)
+- [USACH Web3 Laboratory Smart Contracts](https://github.com/cjbaezilla/diplomado-usach-training-dapp-contracts)
+
 
 ## Fundamentos
 
